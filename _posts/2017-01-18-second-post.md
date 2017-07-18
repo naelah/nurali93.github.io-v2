@@ -7,7 +7,6 @@ date: 2017-01-22 20:30:00 +0800
 published: true
 comments: true
 tag:
-- about
 - blog
 - development
 ---
