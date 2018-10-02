@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-I am a programmer. Working full-time as a front-end developer for [Suria Labs Development](www.surialabs.com).
+I am a programmer. Working full-time as a front-end developer for [Suria Labs Development](www.surialabs.com). I live in Tokyo with my lovely wife [Nael](naelah.github.io) who is also an awesome developer. Together we fight crime and save the world. To the batmobile!
 <hr>
 # What I Do?
 {: .center}
